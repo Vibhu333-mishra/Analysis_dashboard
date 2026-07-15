@@ -18,7 +18,7 @@ sns.set_style("whitegrid")
 # ---------------------------------------------------------
 # Data Load + Clean (Load Dataset)
 # ---------------------------------------------------------
-DATA_PATH = "C:\\Users\\HP\\OneDrive\\Desktop\\python\\njjnjbjj\\ecomAnalys\\data.csv"   
+DATA_PATH = "C:/Users/HP/OneDrive/Desktop/python/njjnjbjj/ecomAnalys/data.csv"  
 
 
 @st.cache_data
